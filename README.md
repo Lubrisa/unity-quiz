@@ -25,6 +25,11 @@ in the end, receives a score based on the number of correct answers.
 - [Odin Serializer](https://github.com/TeamSirenix/odin-serializer): A powerful
   and flexible serialization framework for Unity that allows for easy
   serialization and deserialization of complex data structures.
+- [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity): A Unity package
+  manager that allows you to easily install and manage NuGet packages in your
+  Unity projects.
+- [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions):
+  A library that provides functional programming features for C#.
 
 # Game Flow
 
